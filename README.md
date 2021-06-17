@@ -12,5 +12,11 @@ Transcripts were web scraped from the following website: https://www.rev.com/blo
 ## Tools Used
 SpaCy, Sklearn (LDA, pyLDAvis, matplotlib; also used but did not contribute to conclusion: LSA, NMF)
 
+## Snapshots
+
+![image](https://user-images.githubusercontent.com/65420143/122335078-b814f000-cf08-11eb-9347-3acfbcea62f3.png)
+
+![image](https://user-images.githubusercontent.com/65420143/122335037-a895a700-cf08-11eb-8425-b8adccf77822.png)
+
 ## Possible impacts
 The analysis unveils patterns showing how the governor responds given a certain scenario. Particulary striking is the Enforcement and political topics measured against a timeline of events, as well as the Political COVID topic and State Mandate topics measured against coronavirus contraction/hospitalization statistics as well as eachother. Given the immediacey and lack of ability to plan, the NLP analysis of Governor Cuomo's COVID Updates could provide future leaders with guidance on the proper way to effectively communicate with its consitiuents. 
