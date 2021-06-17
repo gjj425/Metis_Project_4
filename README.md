@@ -1,4 +1,4 @@
-#Metis Project 4: An NLP Analysis of Governor Cuomo's Daily COVID Updates
+# Metis Project 4: An NLP Analysis of Governor Cuomo's Daily COVID Updates
 
 ## Description
 Starting March 10, 2020, New York Governor Andrew Cuomo provided daily COVID-19 updates to the public, providing insights to his concerns, goals, and policy making logic for the duration of the crisis to date. Project 4 uses LDA to conduct a topic analysis on trascripts of these meetings through October 26, 2020. Please note that the governor switches from a schedule of daily updates to an "as-needed" basis, generally providing new updates every 2-4 days. 
